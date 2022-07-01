@@ -1,2 +1,2 @@
 # atividades-javascript
-Atividades práticas e básicas sobre Javascript como forma de aprendizagem.
+Atividades práticas sobre Javascript como forma de aprendizagem feitas pela DIO e adaptadas individualmente.
